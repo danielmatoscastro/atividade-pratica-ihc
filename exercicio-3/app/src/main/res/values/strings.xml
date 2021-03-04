@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">exercicio-3</string>
+    <string name="textview">TextView</string>
+    <string name="x">X</string>
+    <string name="z">Z</string>
+    <string name="y">Y</string>
+</resources>
